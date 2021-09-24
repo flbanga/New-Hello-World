@@ -1,7 +1,11 @@
 # New-Hello-World
 index.html
-  <title> My World </title>
+<!DOCTYPE html>
+<html>
+  <head>
 
+  <title> My World </title>
+<head>
     <body>
       <h1> 
         <p>L'on ne change pas sa vie en l'organisant mais plutôt en changeant son paradigme."
@@ -12,3 +16,4 @@ index.html
       <p> Finalement je sais que c'est à moi de changer pour que mon monde change. "FLBB" </p>
  </h2>  
 </body>
+  </html>
