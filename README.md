@@ -1,6 +1,6 @@
 # New-Hello-World
 index.html
-  <title> My new Hello World </title>
+  <title> My World </title>
 
     <body>
       <h1> 
