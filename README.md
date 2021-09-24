@@ -9,6 +9,6 @@ index.html
               Ingénieur, Écrivain-poète, Philosophe, République Centrafricaine, Bangui, 1968"</p>
   </h1>
      <h2> 
-      <p> J'ai voulu que le monde change. </p>
+      <p> Finalement je sais que c'est à moi de changer pour que mon monde change. "FLBB" </p>
  </h2>  
 </body>
